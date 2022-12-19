@@ -1,0 +1,14 @@
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.csproj.AssemblyReference.cache
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.AssemblyInfoInputs.cache
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.AssemblyInfo.cs
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.csproj.CoreCompileInputs.cache
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.exe
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.deps.json
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.runtimeconfig.json
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.runtimeconfig.dev.json
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.dll
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\bin\Debug\netcoreapp3.1\FileManagerr.pdb
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.dll
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.pdb
+C:\Users\Ян\source\repos\FileManagerr\FileManagerr\obj\Debug\netcoreapp3.1\FileManagerr.genruntimeconfig.cache
